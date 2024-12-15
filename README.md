@@ -17,7 +17,8 @@ This Android app retrieves and displays your current location, including latitud
 - **Geocoder** (for address conversion)
 
 ## Demo (gif)
-<img src="/app/src/main/res/demo-location-app.gif" alt="Example GIF" width="200" />
+<img src="/app/src/main/res/demo-location.gif" alt="Location App Demo 2" width="200" />
+
 
 ## Setup
 
