@@ -1,0 +1,56 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio
+.idea/
+.gradle/
+local.properties
+/.idea/
+*.iml
+
+# Build output
+/build/
+*/build/
+
+# Android specific
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+*.jar
+
+# Kotlin specific
+*.kotlin_metadata
+
+# Gradle specific
+.gradle/
+*.gradle
+gradle-wrapper.jar
+
+# User-specific
+.DS_Store
+Thumbs.db
+
+# NDK specific
+*.obj
+*.o
+*.a
+*.so
+*.d
+
+# Jetpack Compose Preview
+.idea/preview/
